@@ -6,32 +6,46 @@
 
 Conceptos Básicos
 
-Qué es un programa: es una secuencia de instrucciones con sintaxis y reglas que se ejecutan para realizar una tarea o resolver un problema .
+Qué es un programa: es una secuencia de instrucciones con sintaxis y reglas que se ejecutan para realizar una tarea o resolver un problema, que tienen principio y fin.
 
 Qué es una app: es un programa de software con una interfaz en donde el usuario puede interactuar para resolver una necesidad o ejecutar una tarea.
 
-Qué es una API: es un recurso que permite que diferentes app o sistemas se comuniquen entre sí, ejepmplo: el fron end con el back end.
+Qué es una API: es un recurso que permite que diferentes app o sistemas se comuniquen entre sí, ejemplo: el fron end con el back end.
 
-Flujo: Usuario → Front → Backend → BD
+Flujo: Usuario → FrontEnd → BackEnd → BD
 
 Usuario: es una persona que utiliza una app de software para satisfacer una necesidad o resolver un problema.
+
 FrontEnd: es la parte visual e interactiva de la aplicación que permite al usuario realizar acciones y enviar solicitudes al sistema. 
+
 BackEnd: es la parte de la aplicación que maneja la lógica, validaciones, seguridad y la persistencia de los datos, y no está expuesta al usuario.
+
 BD: Una base de datos es un sistema que almacena datos de forma organizada y permite consultarlos, insertarlos, modificarlos o eliminarlos.
 
+
 Python: es un lenguage de programación, define como se escribe la lógica de un programa y puede usarse para múltiples propósitos.
+
 VS Code: es un editor de código que permite escribir y editar código para frontend y backend e integrar librerías .
+
 IDE: es un entorno de desarrollo integrado que incluye herramientas para escribir, ejecutar y depurar código, como un taller completo.
+
 FrameWork: define una estructura y reglas base para construir una aplicación, facilitando el desarrollo del software. (plantilla determinada)
+
 Lenguage de programación: es un medio para comunicarse con la computadora mediante instrucciones que permiten crear software.
 
 Editor / IDE → (VS Code / Visual Studio)
+
 Lenguaje     → (C#, Python, JS)
+
 Framework    → (.NET, Django, React)
+
 Capa         → (Frontend / Backend)
 
+
 Recurrencia: algo que se repite en el tiempo (pagos recurrentes, mensual).
+
 Concurrencia: es la existencia de múltiples peticiones o tareas activas al mismo tiempo que el sistema debe gestionar, aunque no se ejecuten exactamente al mismo instante.
+
 Paralelismo: es la capacidad del sistema de ejecutar varias de esas tareas simultáneamente usando múltiples recursos (como núcleos del CPU).
 
 El multihilo no hace el sistema más rápido, lo hace más eficiente. (El paralelismo sí lo hace más rápido.)
