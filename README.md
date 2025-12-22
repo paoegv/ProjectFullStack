@@ -7,7 +7,9 @@
 Conceptos Básicos
 
 Qué es un programa: es una secuencia de instrucciones con sintaxis y reglas que se ejecutan para realizar una tarea o resolver un problema .
+
 Qué es una app: es un programa de software con una interfaz en donde el usuario puede interactuar para resolver una necesidad o ejecutar una tarea.
+
 Qué es una API: es un recurso que permite que diferentes app o sistemas se comuniquen entre sí, ejepmplo: el fron end con el back end.
 
 Flujo: Usuario → Front → Backend → BD
